@@ -1,0 +1,4 @@
+# No external dependencies.
+# This project only uses Python's standard library:
+#   - tkinter (comes bundled with most Python installs)
+#   - datetime
